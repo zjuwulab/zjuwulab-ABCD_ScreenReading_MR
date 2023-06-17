@@ -1,1 +1,3 @@
-# zjuwulab-ABCD_ScreenReading_MR
+This file will contain codes in the paper 
+
+The causal effect of screen uses versus reading on the brain development in early adolescents 
