@@ -62,7 +62,7 @@ system(cmd);
 %% 04 two-step MR analysis
 % This is similiar to the above MR analysis except that we first calculate
 % the MR effect between screen use and reading time, and also calcualte 
-% the MR effect between reading and other outcomes.
+% the MR effect between reading time and other outcomes.
 
 % Asumme a(1) = the effect size of first MR, 
 %        a(2) = the se of the first MR.
